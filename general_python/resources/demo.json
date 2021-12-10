@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "dni": "9999",
+      "name": "Customer A",
+      "salary": 1000
+    },
+    {
+      "dni": "123456789",
+      "name": "Customer A",
+      "salary": 1000
+    }
+  ]
+}
