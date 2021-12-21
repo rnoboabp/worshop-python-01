@@ -1,5 +1,6 @@
 [
   {
+    "id": "bf311b13-7d55-46be-a5f9-a42ca5d88ca2",
     "title": "Zero to One",
     "subtitle": "Notes on Startups, or How to Build the Future",
     "author": "Peter Thiel",
@@ -13,6 +14,7 @@
     }
   },
   {
+    "id": "455244fb-48e7-40bf-b13f-21dd88f4e81a",
     "title": "The Lean Startup",
     "subtitle": "How Relentless Change Creates Radically Successful Businesses",
     "author": "Eric Ries",
@@ -22,6 +24,7 @@
     "price": 12.96
   },
   {
+    "id": "b6a2507a-988e-4cc7-86dc-3b9bd479de87",
     "title": "A Promised Land",
     "author": "Barack Obama",
     "publisher": "Viking UK",
@@ -30,6 +33,7 @@
     "price": 31.74
   },
   {
+    "id": "73c0f4f6-8c80-4797-abfb-5d7c3486e156",
     "title": "The Hard Thing about Hard Things",
     "subtitle": "Building a Business When There Are No Easy Answers",
     "author": "Ben Horowitz",
@@ -39,6 +43,7 @@
     "price": 15.55
   },
   {
+    "id": "d3efabf2-07cf-4333-a3ff-9860edf5451d",
     "title": "Design patterns",
     "subtitle": "Elements of reusable object-oriented software",
     "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
@@ -48,6 +53,7 @@
     "price": 50
   },
   {
+    "id": "89d3cb16-5d8c-4bcd-940c-785d719d8d35",
     "title": "Clean Code",
     "subtitle": "A Handbook of Agile Software Craftsmanship",
     "author": "Robert Martin",
