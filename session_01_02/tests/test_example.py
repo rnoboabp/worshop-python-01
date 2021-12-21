@@ -1,9 +1,7 @@
 # unittest
 from unittest import TestCase
-# import unittest
 
-
-from general_python.file import read_data_to_json
+from session_01_02.general_python.file import read_data_to_json
 
 
 class TestUtils(TestCase):
